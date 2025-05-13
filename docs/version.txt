@@ -1,4 +1,4 @@
 Application: Screen Life
-Version: 1.1.0
-Build: 2
-Date: 2025-05-13 13:25:52
+Version: 1.2.0
+Build: 3
+Date: 2025-05-13 17:32:47
